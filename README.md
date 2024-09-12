@@ -9,9 +9,6 @@
   <a href="https://linkedin.com/in/vaibhavk10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:vaibhavk10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
 </p>
 
 ---
@@ -75,7 +72,7 @@
   - A responsive food delivery website, built with HTML, CSS, JavaScript for a seamless user experience.
 
 <p align="center">
-  <img src="https://github.com/vaibhavk10/Food-Express/raw/main/screenshots/food-express.png" width="80%" alt="Project Screenshot">
+  <img src="https://github.com/vaibhavk10/Food-Express/raw/main/assets/background.png" width="80%" alt="Project Screenshot">
 </p>
 
 ---
