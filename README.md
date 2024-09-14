@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kumawat</h1>
-<h3 align="center">A Passionate Web & Android Developer from India</h3>
+<h3 align="center">A Passionate Web & Android Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=Web+Developer;Android+Developer;Lifelong+Learner" alt="Typing SVG">
