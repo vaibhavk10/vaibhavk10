@@ -74,6 +74,34 @@
 
 - **EatSphere - [GitHub Link](https://github.com/vaibhavk10/EatSphere)**
   - A food delivery Android app that enables users to browse restaurants, place orders, and track delivery.
+ 
+  <h2>📸 Screenshots</h2>
+<p>Here are a few glimpses of the EatSphere App in action:</p>
+
+<table>
+  <tr>
+    <th>Home Screen</th>
+    <th>Menu</th>
+    <th>Cart</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg1.jpg" alt="Home Screen" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg2.jpg" alt="Menu" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg3.jpg" alt="Cart" width="200"></td>
+  </tr>
+  <tr>
+    <th>Order Placing</th>
+    <th>Order Placed</th>
+    <th>Search Section</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg4.jpg" alt="Order Placing" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg5.jpg" alt="Order Placed" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg6.jpg" alt="Search Section" width="200"></td>
+  </tr>
+</table>
+
+<hr>
   
 - **Food Express Website - [GitHub Link](https://github.com/vaibhavk10/Food-Express)**
   - A responsive food delivery website, built with HTML, CSS, JavaScript for a seamless user experience.
