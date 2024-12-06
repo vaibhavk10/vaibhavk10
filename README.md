@@ -11,6 +11,9 @@
   <a href="https://linkedin.com/in/vaibhavk10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://vaibhavk10.github.io/PortFolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2300C4CC.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
