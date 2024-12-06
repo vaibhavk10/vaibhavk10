@@ -107,7 +107,7 @@
   - A responsive food delivery website, built with HTML, CSS, JavaScript for a seamless user experience.
 
 <p align="center">
-  <img src="https://github.com/vaibhavk10/Food-Express/blob/master/assets/projectimage.png" width="80%" alt="Project Screenshot">
+  <img src="https://github.com/vaibhavk10/Food-Express/blob/master/assets/projectimage.jpg" width="80%" alt="Project Screenshot">
 </p>
 
 ---
