@@ -45,7 +45,6 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-    </td>
   <td width="50%" valign="top">
     <h3 align="center">Tools & Frameworks</h3>
    <p align="center">
